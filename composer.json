@@ -1,0 +1,10 @@
+{
+    "require": {
+        "twig/twig": "^2.0",
+        "phpunit/phpunit": "^7.5",
+        "fzaninotto/faker": "^1.8"
+    },
+    "require-dev": {
+        "mockery/mockery": "^1.2"
+    }
+}
